@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-d /dev/video1 -r 640x480"
